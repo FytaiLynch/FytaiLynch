@@ -7,7 +7,7 @@
  
 - <b>Linux</b>
   - [Manage authorization using Linux](https://github.com/FytaiLynch/File-Permissions-in-Linux)
-  - [Filter tables with AND, OR, and NOT]
+  - [Filter tables with AND, OR, and NOT](https://github.com/FytaiLynch/Filter-with-AND-OR-and-NOT)
 
 <h2>🤳Connect with me:</h2>
 
