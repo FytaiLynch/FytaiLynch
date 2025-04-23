@@ -5,8 +5,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fytailynch/configure-ad)
  
-- <b>Active Directory</b>
-  - [Onboarding and Offboarding in Active Directory VM](https://github.com/FytaiLynch/Onboarding-and-Offboarding-in-AD)
 - <b>Linux</b>
   - [Manage authorization using Linux](https://github.com/FytaiLynch/File-Permissions-in-Linux)
   - [Filter tables with AND, OR, and NOT](https://github.com/FytaiLynch/Filter-with-AND-OR-and-NOT)
