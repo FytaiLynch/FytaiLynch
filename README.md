@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fytailynch/configure-ad)
  
-  - <b>Active Directory</b>
+- <b>Active Directory</b>
  
 - <b>Linux</b>
   - [Manage authorization using Linux](https://github.com/FytaiLynch/File-Permissions-in-Linux)
